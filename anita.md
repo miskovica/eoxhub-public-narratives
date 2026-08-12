@@ -19,7 +19,7 @@ Berlin benefits from its extensive urban green spaces which act as lungs for the
 Located in the Po Valley, Milan often experiences lower air quality due to geographic trapping of pollutants. Limited wind circulation and stagnant atmospheric conditions lead to higher concentration levels.
 
 ### <!--{ zoom=11 center=[16.3738,48.2082] layers='[{"type":"Tile","properties":{"id":"terrain-light"},"source":{"type":"WMTSCapabilities","url":"https://tiles.maps.eox.at/wmts/1.0.0/WMTSCapabilities.xml","layer":"terrain-light_3857"}}]' animationOptions='{"duration":500}' }-->
-#### Vienna: Quality of Life and Air
+#### Vienna: Quality of Life and Air1
 Vienna consistently ranks high for quality of life, supported by efficient public transport and careful urban planning. The city actively monitors air quality to maintain these high standards and mitigate impacts from urban heating.
 
 ## Moving Forward
